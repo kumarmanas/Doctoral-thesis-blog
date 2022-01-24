@@ -1,0 +1,3 @@
+Studied paper [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://arxiv.org/pdf/2201.07207.pdf).
+Blog page is up and running.
+Study of AP1.1 and AP1.2 documentation, as they extensively discussed knowledge representation and expert knowledge in terms of planning. One important thing I found that they are thinking to use Meta-learning in planning. In meta-learning as we learn how to learn, it can cover the scenarios which are not seen during the training. They can be deployed in zero shot model(i.e. even without the single training instance).
