@@ -1,0 +1,19 @@
+layout: post
+title: "POST TITLE"
+date: 2022-01-24
+categories: Update
+
+title: Doctoral Thesis Blog of Kumar Manas
+permalink: /URL-PATH/
+author: Kumar Manas
+email: manasmishra888@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+# social links
+twitter_username: kumarmanas27 # DO NOT include the @ character, or else the build will fail!
+github_username:  kumarmanas # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
